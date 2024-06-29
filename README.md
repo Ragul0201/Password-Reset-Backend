@@ -48,7 +48,7 @@ To run the project locally:
 
 Live Demo : https://sparkly-wisp-415159.netlify.app/
 
-1. Clone the repository: git clone https://github.com/Vijayarajvijay/Password-Reset-BE
+1. Clone the repository: git clone https://github.com/Ragul0201/Password-Reset-Backend
 2. Front  End code : https://github.com/Vijayarajvijay/Password-Reset-FE/tree/main
 3. Poast Man Documentation Link : https://documenter.getpostman.com/view/30449043/2s9YeN3pPS
 4. Navigate to the project directory and install 
